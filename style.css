@@ -1,0 +1,40 @@
+body {
+ 
+
+    background-image: url("imagens/disney\ foto\ inicial.jpg");
+    background-color: rgb(241, 241, 241);
+}
+
+.header {
+    border-style: dotted;
+    border-style: dotted;
+    border: 5px dotted white;
+    padding: 0px 0px;
+    background-color: rgb(0, 0, 0);
+    display: flexbox;
+
+}
+
+h1 {
+   
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+img { 
+   
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+}
+
+h2 {
+     color: rgb(213, 215, 215);
+}
+
+
+div {
+    color: rgb(98, 118, 234);
+    text-align: center;
+    
+}
